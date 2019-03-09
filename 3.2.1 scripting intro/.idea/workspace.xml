@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cb537f0-5343-470b-b2fa-2eccbe61c20e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aggregates_creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_cleaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/impexp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/3.1.1 scripting intro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/hangman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1.1 scripting intro/simple_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/creating_the_csvs-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/creating_the_csvs-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impexp.py" beforeDir="false" afterPath="$PROJECT_DIR$/impexp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="21" column="103" lean-forward="true" selection-start-line="21" selection-start-column="103" selection-end-line="21" selection-end-column="103" />
+            <state relative-caret-position="495">
+              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -40,8 +30,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/impexp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+            <state relative-caret-position="465">
+              <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -50,13 +52,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.8/site-packages/pymysql/err.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1590">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
             </state>
           </provider>
         </entry>
@@ -75,15 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -119,8 +109,8 @@
         <option value="$PROJECT_DIR$/data_cleaning.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/aggregates_creation.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/impexp.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -263,7 +253,7 @@
     <frame x="0" y="23" width="1420" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24588992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24588992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,6 +328,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data_cleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simple_script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -352,17 +349,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_cleaning.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.8/site-packages/pymysql/err.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="1590">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/impexp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+        <state relative-caret-position="465">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -371,18 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="21" column="103" lean-forward="true" selection-start-line="21" selection-start-column="103" selection-end-line="21" selection-end-column="103" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
