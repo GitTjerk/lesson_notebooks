@@ -1,0 +1,78 @@
+Make	Model	Year	Engine Displacement	Cylinders	Transmission	Drivetrain	Vehicle Class	Fuel Type	Fuel Barrels/Year	City MPG	Highway MPG	Combined MPG	CO2 Emission Grams/Mile	Fuel Cost/Year
+AM General	DJ Po Vehicle 2WD	1984	2.5	4.0	Automatic 3-spd	2-Wheel Drive	Special Purpose Vehicle 2WD	Regular	19.388823529411766	18	17	17	522.7647058823529	1950
+AM General	FJ8c Post Office	1984	4.2	6.0	Automatic 3-spd	2-Wheel Drive	Special Purpose Vehicle 2WD	Regular	25.35461538461539	13	13	13	683.6153846153846	2550
+AM General	Post Office DJ5 2WD	1985	2.5	4.0	Automatic 3-spd	Rear-Wheel Drive	Special Purpose Vehicle 2WD	Regular	20.600625	16	17	16	555.4375	2100
+AM General	Post Office DJ8 2WD	1985	4.2	6.0	Automatic 3-spd	Rear-Wheel Drive	Special Purpose Vehicle 2WD	Regular	25.35461538461539	13	13	13	683.6153846153846	2550
+ASC Incorporated	GNX	1987	3.8	6.0	Automatic 4-spd	Rear-Wheel Drive	Midsize Cars	Premium	20.600625	14	21	16	555.4375	2550
+Acura	2.2CL/3.0CL	1997	2.2	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.98227272727273	20	26	22	403.95454545454544	1500
+Acura	2.2CL/3.0CL	1997	2.2	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	28	24	370.29166666666674	1400
+Acura	2.2CL/3.0CL	1997	3.0	6.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	16.4805	18	26	20	444.35	1650
+Acura	2.3CL/3.0CL	1998	2.3	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.98227272727273	19	27	22	403.95454545454544	1500
+Acura	2.3CL/3.0CL	1998	2.3	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	21	29	24	370.29166666666674	1400
+Acura	2.3CL/3.0CL	1998	3.0	6.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	16.4805	17	26	20	444.35	1650
+Acura	2.3CL/3.0CL	1999	2.3	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.98227272727273	20	27	22	403.95454545454544	1500
+Acura	2.3CL/3.0CL	1999	2.3	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	21	29	24	370.29166666666674	1400
+Acura	2.3CL/3.0CL	1999	3.0	6.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	16.4805	17	26	20	444.35	1650
+Acura	2.5TL	1995	2.5	5.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	16.4805	18	23	20	444.35	2000
+Acura	2.5TL/3.2TL	1996	2.5	5.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	16.4805	18	23	20	444.35	2000
+Acura	2.5TL/3.2TL	1996	3.2	6.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	17.347894736842107	17	22	19	467.73684210526324	2150
+Acura	2.5TL/3.2TL	1997	2.5	5.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	16.4805	18	23	20	444.35	2000
+Acura	2.5TL/3.2TL	1997	3.2	6.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	17.347894736842107	17	22	19	467.73684210526324	2150
+Acura	2.5TL/3.2TL	1998	2.5	5.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	16.4805	17	23	20	444.35	2000
+Acura	2.5TL/3.2TL	1998	3.2	6.0	Automatic 4-spd	Front-Wheel Drive	Compact Cars	Premium	17.347894736842107	17	22	19	467.73684210526324	2150
+Acura	3.2CL	2001	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	16.4805	17	27	20	444.35	2000
+Acura	3.2CL	2002	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	15.695714285714288	17	27	21	423.19047619047615	1950
+Acura	3.2CL	2003	3.2	6.0	Manual 6-spd	Front-Wheel Drive	Compact Cars	Premium	16.4805	17	26	20	444.35	2000
+Acura	3.2CL	2003	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	15.695714285714288	17	27	21	423.19047619047615	1950
+Acura	3.2TL	1999	3.2	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	16.4805	17	25	20	444.35	2000
+Acura	3.2TL	2000	3.2	6.0	Automatic 5-spd	Front-Wheel Drive	Midsize Cars	Premium	16.4805	17	27	20	444.35	2000
+Acura	3.2TL	2001	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Midsize Cars	Premium	16.4805	17	27	20	444.35	2000
+Acura	3.2TL	2002	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Midsize Cars	Premium	15.695714285714288	17	27	21	423.19047619047615	1950
+Acura	3.2TL	2003	3.2	6.0	Automatic (S5)	Front-Wheel Drive	Midsize Cars	Premium	15.695714285714288	17	27	21	423.19047619047615	1950
+Acura	3.5RL	1996	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	17.347894736842107	17	23	19	467.73684210526324	2150
+Acura	3.5RL	1997	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	17.347894736842107	17	23	19	467.73684210526324	2150
+Acura	3.5RL	1998	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	17.347894736842107	17	23	19	467.73684210526324	2150
+Acura	3.5RL	1999	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	3.5RL	2000	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	3.5RL	2001	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	3.5RL	2002	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	3.5RL	2003	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	3.5RL	2004	3.5	6.0	Automatic 4-spd	Front-Wheel Drive	Midsize Cars	Premium	18.311666666666667	16	22	18	493.72222222222223	2250
+Acura	ILX	2013	2.0	4.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	11.771785714285713	24	35	28	318.0	1450
+Acura	ILX	2013	2.4	4.0	Manual 6-spd	Front-Wheel Drive	Compact Cars	Premium	13.1844	22	31	25	361.0	1600
+Acura	ILX	2014	2.0	4.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	11.771785714285713	24	35	28	318.0	1450
+Acura	ILX	2014	2.4	4.0	Manual 6-spd	Front-Wheel Drive	Compact Cars	Premium	13.1844	22	31	25	361.0	1600
+Acura	ILX	2015	2.0	4.0	Automatic (S5)	Front-Wheel Drive	Compact Cars	Premium	11.771785714285713	24	35	28	316.0	1450
+Acura	ILX	2015	2.4	4.0	Manual 6-spd	Front-Wheel Drive	Compact Cars	Premium	13.1844	22	31	25	350.0	1600
+Acura	ILX	2016	2.4	4.0	Auto(AM8)	Front-Wheel Drive	Compact Cars	Premium	11.365862068965518	25	36	29	305.0	1400
+Acura	ILX	2017	2.4	4.0	Auto(AM-S8)	Front-Wheel Drive	Compact Cars	Premium	11.365862068965518	25	35	29	309.0	1400
+Acura	ILX Hybrid	2013	1.5	4.0	Auto(AV-S7)	Front-Wheel Drive	Compact Cars	Premium	8.673947368421054	39	38	38	228.0	1050
+Acura	ILX Hybrid	2014	1.5	4.0	Auto(AV-S7)	Front-Wheel Drive	Compact Cars	Premium	8.673947368421054	39	38	38	228.0	1050
+Acura	Integra	1986	1.6	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	28	24	370.29166666666674	1400
+Acura	Integra	1986	1.6	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	23	28	25	355.48	1350
+Acura	Integra	1987	1.6	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	28	24	370.29166666666674	1400
+Acura	Integra	1987	1.6	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	23	28	25	355.48	1350
+Acura	Integra	1988	1.6	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	27	24	370.29166666666674	1400
+Acura	Integra	1988	1.6	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	23	28	25	355.48	1350
+Acura	Integra	1989	1.6	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	27	24	370.29166666666674	1400
+Acura	Integra	1989	1.6	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	23	28	25	355.48	1350
+Acura	Integra	1990	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.98227272727273	20	24	22	403.95454545454544	1500
+Acura	Integra	1990	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.330869565217393	21	26	23	386.39130434782606	1450
+Acura	Integra	1991	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.330869565217393	21	26	23	386.39130434782606	1450
+Acura	Integra	1991	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.330869565217393	21	26	23	386.39130434782606	1450
+Acura	Integra	1992	1.7	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	14.330869565217393	21	26	23	386.39130434782606	1750
+Acura	Integra	1992	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.330869565217393	21	26	23	386.39130434782606	1450
+Acura	Integra	1992	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	22	28	24	370.29166666666674	1400
+Acura	Integra	1993	1.7	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	14.330869565217393	21	26	23	386.39130434782606	1750
+Acura	Integra	1993	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	14.330869565217393	21	26	23	386.39130434782606	1450
+Acura	Integra	1993	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	22	29	25	355.48	1350
+Acura	Integra	1994	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	13.73375	22	28	24	370.29166666666674	1700
+Acura	Integra	1994	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	21	29	24	370.29166666666674	1400
+Acura	Integra	1994	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	22	29	25	355.48	1350
+Acura	Integra	1995	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	13.73375	22	28	24	370.29166666666674	1700
+Acura	Integra	1995	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	21	29	24	370.29166666666674	1400
+Acura	Integra	1995	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	22	29	25	355.48	1350
+Acura	Integra	1996	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	13.1844	22	29	25	355.48	1600
+Acura	Integra	1996	1.8	4.0	Automatic 4-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.73375	21	29	24	370.29166666666674	1400
+Acura	Integra	1996	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Regular	13.1844	22	29	25	355.48	1350
+Acura	Integra	1997	1.8	4.0	Manual 5-spd	Front-Wheel Drive	Subcompact Cars	Premium	13.1844	22	29	25	355.48	1600
