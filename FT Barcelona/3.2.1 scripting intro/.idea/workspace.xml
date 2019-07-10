@@ -2,11 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cb537f0-5343-470b-b2fa-2eccbe61c20e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/3.1.1 scripting intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3.1.1 scripting intro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3.2 APIs Intro/.ipynb_checkpoints/APIs Hello World-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3.2 APIs Intro/.ipynb_checkpoints/APIs Hello World-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/aggregates_creation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/aggregates_creation_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/creating_the_csvs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_01.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_02.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_03.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_04.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_05.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_06.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_07.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_08.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_09.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_10.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_11.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_12.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_13.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_14.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_15.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_16.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_17.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_18.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_19.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_20.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_21.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_22.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_23.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_24.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_25.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_26.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_27.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_28.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_29.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/sales_30.04.2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data_cleaning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/impexp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/sales_train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/whole_script.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +52,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,7 +119,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,13 +341,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/new.py" />
     <entry file="file://$PROJECT_DIR$/sales_train.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
